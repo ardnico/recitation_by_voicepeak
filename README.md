@@ -1,0 +1,2 @@
+# recitation_by_voicepeak
+txtファイルを選択して、VoicePeaksに朗読してもらいます
